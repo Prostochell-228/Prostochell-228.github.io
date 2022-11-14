@@ -1,1 +1,1 @@
-https://miro.com/app/board/uXjVPEfTj-k=/?share_link_id=52358116273
+<iframe width="1024" height="1080" src="https://miro.com/app/live-embed/uXjVPEfTj-k=/?moveToViewport=-6536,-2216,11929,6020&embedId=691628939341" frameborder="0" scrolling="no" allowfullscreen></iframe>
